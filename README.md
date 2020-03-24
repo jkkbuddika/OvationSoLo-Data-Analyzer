@@ -1,1 +1,1 @@
-# OvationSoLo-Data-Analyzer
+# OvationSoLo Data Analyzer
